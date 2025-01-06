@@ -1,5 +1,6 @@
-# Monitoring-Light-intensity-value-in-Thing-speak-cloud
-# Uploading LDR sensor data in Thing Speak cloud
+##Name:Ajay J
+##reg no:24004969
+# Monitoring Light intensity value in ThingSpeak cloud
 
 # AIM:
 To monitor the Light-intensity value in the Thing speak cloud using LDR sensor and ESP32 controller.
