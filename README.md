@@ -1,6 +1,6 @@
-##Name:Ajay J
+Name:Ajay J
 
-##reg no:24004969
+Reg no:24004969
 
 # Monitoring Light intensity value in ThingSpeak cloud
 
