@@ -2,7 +2,7 @@ Name:Ajay J
 
 Reg no:24004969
 
-# Monitoring Light intensity value in ThingSpeak cloud
+# Experiment 4: Monitoring Light intensity value in ThingSpeak cloud
 
 # AIM:
 To monitor the Light-intensity value in the Thing speak cloud using LDR sensor and ESP32 controller.
