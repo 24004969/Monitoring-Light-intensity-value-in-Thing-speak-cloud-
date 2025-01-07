@@ -98,7 +98,7 @@ Prototype and build IoT systems without setting up servers or developing web sof
 #include "ThingSpeak.h"
 #define ldr_pin 34
 
-char ssid[] = "Akshay"; 
+char ssid[] = "Ajay"; 
 char pass[] = "Loid D Ackerman :)";
 int keyIndex = 0;
 WiFiClient  client;
